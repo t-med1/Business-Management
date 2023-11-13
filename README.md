@@ -17,10 +17,6 @@ Welcome to the Business Management System repository! This powerful application 
 3. Ensure you have a secure web server with PHP support for optimal functionality.
 4. Explore the Business Management System and customize it to fit your business needs.
 
-## Contributing
-
-We welcome contributions from the community! If you have ideas for improvements, new features, or bug fixes, please create an issue or submit a pull request. Check out our [contribution guidelines](CONTRIBUTING.md) for more details.
-
 ## Support
 
 If you encounter any issues or have questions, feel free to open an issue in the [issue tracker](https://github.com/your-username/business-management/issues). We appreciate your feedback and are here to assist you!
