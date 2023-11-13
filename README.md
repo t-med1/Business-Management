@@ -23,10 +23,6 @@ If you find this project valuable for your business or if you appreciate the eff
 
 ⭐ Star this repository to show your support!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Thank you for choosing the Business Management System. We hope this application contributes to the success and efficiency of your business operations.
