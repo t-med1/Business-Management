@@ -12,7 +12,7 @@ Welcome to the Business Management System repository! This powerful application 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/business-management.git`
+1. Clone the repository: `git clone https://github.com/t-med1/business-management.git`
 2. Set up the project in your preferred development environment.
 3. Ensure you have a secure web server with PHP support for optimal functionality.
 4. Explore the Business Management System and customize it to fit your business needs.
